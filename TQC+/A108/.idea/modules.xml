@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/108.iml" filepath="$PROJECT_DIR$/.idea/modules/108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/108.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/108.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/108.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/108.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/108.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/108.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/108.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/108.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/A108.iml" filepath="$PROJECT_DIR$/.idea/modules/A108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/A108.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/A108.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/A108.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/A108.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/A108.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/A108.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/A108.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/A108.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">跑馬燈</string>
+  <string name="hint_input_text">輸入跑馬燈文字，然後按下Enter或確認...</string>
+</resources>

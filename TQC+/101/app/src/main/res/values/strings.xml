@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">點餐系統</string>
+  <string name="str0">歡迎光臨蟹堡王</string>
+  <string name="str1">進入點餐系統</string>
+  <string name="str2">您點的餐點有：</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>
