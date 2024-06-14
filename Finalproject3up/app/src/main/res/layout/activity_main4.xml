@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity4">
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="195dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="284dp"
+        android:background="@drawable/button_style1"
+        android:text="限時模式"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:backgroundTint="@null"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>

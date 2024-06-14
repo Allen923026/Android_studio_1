@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_level.xml -->
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/buttonLevel"
+    android:layout_width="360dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    android:background="@drawable/button_style1"
+    android:backgroundTint="@null"
+    android:gravity="center"
+    android:padding="16dp"
+    android:textSize="18sp" />
